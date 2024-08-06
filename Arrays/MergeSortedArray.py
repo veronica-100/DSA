@@ -31,3 +31,6 @@ class Solution(object):
     :: Place the larger of the two values at the third pointer’s index.
     :: Repeat the process until the two arrays are merged.
     '''
+
+aa = Solution()
+print(aa.merge(nums1=[1,2,3,0,0,0], m = 3, nums2=[2,5,6], n = 3))

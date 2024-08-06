@@ -1,184 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="188fd8cd-d991-40e9-a157-3da721bbcdc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/BinarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/Find Minimum in Rotated Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/First&amp;Last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/Search_in_Rotated_Sorted_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/count-number-of-occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTrees/.idea/BinaryTrees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTrees/BinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTrees/TopView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/DP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/ClimbStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/House Robbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/PrintLCS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/UniquePath2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/WordBreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DP/longestPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Easy/.idea/Easy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/Hard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/Allocate Minimum Number of Pages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/HashMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/Frequency of the Most Frequent Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/GroupAnagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/HighestFrequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashMap/IntegerToRoman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/Heaps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/KthLargestElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/Sort Characters By Frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Heaps/TopKfrequentElements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/DetectLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/IntersectionOfTwoSortedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/ReverseLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/ReverseLinkedList2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/sortList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/Matrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/RotateImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/Search2Dmatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/SetMatrixZero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/SpiralMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/SpiralMatrix2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Matrix/ValidSudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/Medium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Medium/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/Numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Numbers/ReverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/Queues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/Subset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/Searching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/MajorityElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/MedianOfTwoSortedArrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Searching/SingleNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/SlidingWindow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/First negative integer in every window of size k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/Longest K unique characters substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/Longest sub-array having sumK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/MaxConsecutiveOnesIII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/MinimumSizeSubarraySum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/Subarray Sum Equals K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SlidingWindow/slidingwindowmaximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/Stacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/CountOfGreaterElementsToTheRight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/DailyTemperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/NextGreaterElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/Postfix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/ReverseStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/ReverseStringWithStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/SortStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/StockSpanner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stacks/ValidStackSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/Add to Array-Form of Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/AddStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/Find the Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/LongestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/MultipyStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/ReverseOnlyLetters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/RotateString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/ShuffleString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/SimplifyPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/ValidParanthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/WordPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/ZigZagConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ContainerWithMostWater.PROOF.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ContainerWithMostWater.README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88.MergeSortedArray.PROOF.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88.MergeSortedArray.README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContainerWithMostWater.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.ContainerWithMostWater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DuplicateNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/88.MergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSortedArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "veronica-100"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/veronica-100/DSA.git",
+    "accountId": "feea382d-ca10-4a76-b84c-1a2f8f77e36e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kDxulq5ytZwsttx22BqQZ8tcy7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.11.ContainerWithMostWater.executor": "Run",
+    "Python.88. Merge Sorted Array.executor": "Run",
+    "Python.88.MergeSortedArray.executor": "Run",
+    "Python.MergeSortedArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/veron/OneDrive/Documents/GitHub/DSA/BackTracking"
   }
 }]]></component>
